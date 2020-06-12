@@ -8,7 +8,7 @@ clone the repository, change the version and re-compile.
 
 ### Usage
 The plugin has already been compiled so feel free to download
-the plugin directly from here: [.mll file](https://github.com/KieranKnight/RippleDeformer/blob/master/x64/Debug/RippleDeformer.mll)
+the plugin directly from here: [.mll file](https://github.com/KieranKnight/RippleDeformer/blob/master/RippleDeformer/x64/Debug/RippleDeformer.mll)
 
 However, if you want to make any modifications to the code you will need to
 clone the code locally and re-compile this code.
