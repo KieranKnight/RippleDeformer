@@ -1,0 +1,8 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  pluginMain.cpp
+  rippleDeformer.cpp
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1288,5): warning MSB8012: TargetPath(C:\Users\KierK\source\repos\RippleDeformer\x64\Debug\RippleDeformer.dll) does not match the Linker's OutputFile property value (C:\Users\KierK\source\repos\RippleDeformer\x64\Debug\RippleDeformer.mll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1289,5): warning MSB8012: TargetExt(.dll) does not match the Linker's OutputFile property value (.mll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library C:\Users\KierK\source\repos\RippleDeformer\x64\Debug\RippleDeformer.lib and object C:\Users\KierK\source\repos\RippleDeformer\x64\Debug\RippleDeformer.exp
+  RippleDeformer.vcxproj -> C:\Users\KierK\source\repos\RippleDeformer\x64\Debug\RippleDeformer.dll
