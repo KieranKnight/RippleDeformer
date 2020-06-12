@@ -1,5 +1,5 @@
 # RippleDeformer
-A custom deformation node for Maya that deforms a shape node. Deformation values are influenced by Maya's paint weights. Plugin is written using Maya's C++ api.
+A custom ripple effect node for Maya that deforms a shape node. Deformation values are influenced by Maya's paint weights. Plugin is written using Maya's C++ api.
 
 ### Prerequisites
 This plugin has been compiled for Maya 2019.
